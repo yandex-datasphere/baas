@@ -59,7 +59,9 @@ def get(n=10):
 
 В директории `examples` содержатся проекты, сделанные на основе данного API:
 
-* [Bacteria Draw]()
+* [Бактерия рисует](examples/bacteria_draws/bacteria_draws.ipynb) - генерация картинок с Yandex ART на основе биослучайных чисел
+
+![](img/bacdraw.png)
 
 ## Pull Requests
 
