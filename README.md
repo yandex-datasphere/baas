@@ -60,9 +60,10 @@ def get(n=10):
 В директории `examples` содержатся проекты, сделанные на основе данного API:
 
 * [Бактерия рисует](examples/bacteria_draws/bacteria_draws.ipynb) (от [@shwars](https://github.com/shwars)) - генерация картинок с использованием биослучайных чиселYandex ART на основе биослучайных чисел
-* [Биокомпозитор](examples/BioCompositor/README.md) (от [@rwor7hless](https://github.com/rwor7hless)) - генерация MIDI-музыки на основе биослучайных чисел
 
 ![](img/bacdraw.png)
+  
+* [Биокомпозитор](examples/BioCompositor/README.md) (от [@rwor7hless](https://github.com/rwor7hless)) - генерация MIDI-музыки на основе биослучайных чисел
 
 ## Pull Requests
 
